@@ -1,6 +1,6 @@
 ﻿int anoNascimento = 0, anoAtual = 0,idade = 0;
 
-Console.Write("Insira o ano voc~e nasceu: ");
+Console.Write("Insira o ano que você nasceu: ");
 anoNascimento = int.Parse(Console.ReadLine());
 
 Console.Write("Insira o ano atual: ");
