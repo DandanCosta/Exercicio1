@@ -8,6 +8,6 @@ anoAtual= int.Parse(Console.ReadLine());
 
 idade = anoAtual - anoNascimento;
 
-Console.WriteLine($"Sua idade é {idade} anos");
+Console.WriteLine($"Você tem {idade} anos");
 
 
